@@ -156,7 +156,6 @@ GovGuide AI helps citizens discover eligible government welfare schemes and prov
 13.1. THE System SHALL track user interactions while maintaining privacy
 13.2. THE System SHALL generate reports on scheme searches and user behavior
 13.3. THE System SHALL provide demographic insights on scheme interest
-
 13.4. THE System SHALL export analytics data while protecting user privacy
 
 ## Out of Scope
@@ -165,3 +164,4 @@ GovGuide AI helps citizens discover eligible government welfare schemes and prov
 - Legal, financial, or medical advice  
 - Decision-making authority over scheme approval  
 - Real-time integration with all state and central government systems
+
